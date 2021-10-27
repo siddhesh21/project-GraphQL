@@ -1,0 +1,6 @@
+Build the Back-end Server
+Setup Express with Express-GraphQL
+Create schema file with queries and mutations
+Implement JSON-Server 
+CRUD functionality
+Test with Graphiql
